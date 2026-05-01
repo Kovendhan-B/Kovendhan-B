@@ -23,7 +23,7 @@
   <a href="https://github.com/Kovendhan-B" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-  <a href="https://linkedin.com/in/kovendhan-b" target="_blank">
+  <a href="https://www.linkedin.com/in/kovendhan-b-03b1932a2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="https://leetcode.com/Agent_Morty" target="_blank">
